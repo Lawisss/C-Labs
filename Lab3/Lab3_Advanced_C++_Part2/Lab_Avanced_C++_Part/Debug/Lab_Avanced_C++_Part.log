@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Lab_Avanced_C++_Part.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  CylinderType.cpp
+  Main.cpp
+  Generating Code...
+  Lab_Avanced_C++_Part.vcxproj -> C:\Users\loicl\source\repos\Lab3_Advanced_C++_Part2\Debug\Lab3_Avanced_C++_Part2.exe
